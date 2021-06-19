@@ -27,6 +27,12 @@ A list of dev resources which I found interesting and use alongside in my progra
 - [Heroku](https://www.heroku.com/) — A platform as a service (PaaS) that enables to build, run, and operate applications entirely in the cloud.
 - [Digital Ocean](https://www.digitalocean.com/) — Easily build, test, manage, and scale applications of any size.
 
+## Fonts
+
+- [Google Fonts](https://fonts.google.com/) — Huge collection of beautiful, fast, and open typography.
+- [css.gg](https://css.gg/app) — Pure CSS icons library, Customizable & Retina-Ready built.
+- 
+
 ## Icons
 
 - [Boxicons](https://boxicons.com/) — A free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.
@@ -47,6 +53,14 @@ A list of dev resources which I found interesting and use alongside in my progra
 - [Lorem Picsum](https://picsum.photos/) — Lorem Ipsum for photos.
 - [Squoosh](https://squoosh.app/) — Compress and compare images with different codecs, right in your browser.
 - [Carbon](https://carbon.now.sh/) — Create and share images of your source code.
+
+## Markdown
+
+- [Commonmark](https://commonmark.org/help/ ) — Learn Markdown with interactive tutorial.
+- [Markdown Guide](https://www.markdownguide.org) — A free and open-source reference guide that explains how to use Markdown. Which also consists of extended syntax from main ones and other tools which uses Markdown.
+- [Dillinger](https://dillinger.io/) — Online Markdown editor, write and export content into HTML, STYLED HTML, Markdown or PDF right from your browser.
+- [Obsidian](https://obsidian.md/) — A simple, highly customizable and open source markdown application for your PC.
+- [Typora](https://typora.io/) — A cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
 
 ## SVG
 
