@@ -59,7 +59,7 @@ A list of dev resources which I found interesting and use alongside in my progra
 - [Commonmark](https://commonmark.org/help/ ) — Learn Markdown with interactive tutorial.
 - [Markdown Guide](https://www.markdownguide.org) — A free and open-source reference guide that explains how to use Markdown. Which also consists of extended syntax from main ones and other tools which uses Markdown.
 - [Dillinger](https://dillinger.io/) — Online Markdown editor, write and export content into HTML, STYLED HTML, Markdown or PDF right from your browser.
-- [Obsidian](https://obsidian.md/) — A simple, highly customizable and open source markdown application for your PC.
+- [Obsidian](https://obsidian.md/) — Simple yet highly customizable Markdown application for your PC.
 - [Typora](https://typora.io/) — A cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.
 
 ## SVG
