@@ -5,6 +5,13 @@ A list of dev resources which I found interesting and use alongside in my progra
 
 - [Temp API](https://tempapi.proj.me/) — A temporary rest API for your frontend app.
 
+## Coding Games
+
+- [CodinGame](https://www.codingame.com/start) — A challenge-based training platform for programmers to improve your coding skills with fun exercises.
+- [Flexbox Froggy](https://flexboxfroggy.com/) — A game for learning CSS flexbox where you help Froggy and friends by writing CSS code.
+- [Code Combat](https://codecombat.com/) — Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.
+- [Grid Garden](https://cssgridgarden.com/) — A game for learning CSS grid layout where you write CSS code to grow your carrot garden by writing CSS code.
+
 ## CSS
 
 - [CSS Stats](https://cssstats.com/) — Get analytics and visualizations of your stylesheets for further design and performance improvements.
@@ -31,11 +38,11 @@ A list of dev resources which I found interesting and use alongside in my progra
 
 - [Google Fonts](https://fonts.google.com/) — Huge collection of beautiful, fast, and open typography.
 - [css.gg](https://css.gg/app) — Pure CSS icons library, Customizable & Retina-Ready built.
-- 
 
 ## Icons
 
 - [Boxicons](https://boxicons.com/) — A free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.
+- [Tabler Icons](https://tablericons.com/) — 800+ stroke, color and size Customizable free SVG icons.
 
 ## Illustrations
 
@@ -44,6 +51,7 @@ A list of dev resources which I found interesting and use alongside in my progra
 - [Blush](https://blush.design/) — Fully customizable and stunning illustrations made by artists across the globe.
 - [Humaaans](https://www.humaaans.com/) — Mix-&-match illustrations of people.
 - [Ouch](https://icons8.com/illustrations) — Royalty-free clip art vector images and illustrations in PNG, SVG formats.
+- [Streamline](https://app.streamlinehq.com/illustrations) — A huge collection of illustrations in SVG, PNG and PDF formats. Really amazing.
 - [ManyPixels](https://www.manypixels.co/gallery) — Editable and royalty-free SVG and PNG illustrations.
 - [Absurd](https://absurd.design/) — Surrealist illustrations. The artworks combine the absurdity and childishness.
 - [IRA Design](https://iradesign.io/) — Build your own illustrations using gradients and hand drawn sketch components.
@@ -83,3 +91,4 @@ A list of dev resources which I found interesting and use alongside in my progra
 ## Other
 
 - [LanguageTool](https://languagetool.org/) — Open source grammar, writing style and spell checker.
+- [Nodebb](https://nodebb.org/) — Build on Node.js, a community forum software for web. Mobile-ready and easy-to-use.
