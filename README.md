@@ -1,5 +1,6 @@
-# dev-ocean
-A list of dev resources which I found interesting and use alongside in my programming journey
+# Developer Resources
+
+A list of developer resources which I found interesting and use alongside in my programming journey.
 
 ## API
 
@@ -30,7 +31,7 @@ A list of dev resources which I found interesting and use alongside in my progra
 ## Deployment
 
 - [Netlify](https://www.netlify.com/) — Simple and easy to use serverless deployment platform for web apps.
-- [Vercel](https://vercel.com/) — From the team that made [Next.js](https://nextjs.org/), a zero configuration and production grade hosting for web projects. 
+- [Vercel](https://vercel.com/) — From the team that made [Next.js](https://nextjs.org/), a zero configuration and production grade hosting for web projects.
 - [Heroku](https://www.heroku.com/) — A platform as a service (PaaS) that enables to build, run, and operate applications entirely in the cloud.
 - [Digital Ocean](https://www.digitalocean.com/) — Easily build, test, manage, and scale applications of any size.
 
@@ -73,8 +74,7 @@ A list of dev resources which I found interesting and use alongside in my progra
 ## SVG
 
 - [Get Waves](https://getwaves.io/) — Wave generator to make unique SVG waves for your next web design.
-- [Blog Maker](https://www.blobmaker.app/) — Shapes generator to create random, unique, and organic-looking SVG shapes 
-
+- [Blog Maker](https://www.blobmaker.app/) — Shapes generator to create random, unique, and organic-looking SVG shapes.
 
 ## Tailwind
 
@@ -86,7 +86,6 @@ A list of dev resources which I found interesting and use alongside in my progra
 - [Tailwind Components](https://tailwindcomponents.com/) — Tailwind CSS examples components by the community.
 - [Wicked Blocks](https://blocks.wickedtemplates.com/) — A collection of layouts and components built with Tailwind ready to copy and paste on your next project.
 - [Tailwind Starter Kit](https://tailwind-starter-kit.vercel.app/) — A library of components made with Tailwind CSS to bootstrap your projects.
-
 
 ## Other
 
