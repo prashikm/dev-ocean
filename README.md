@@ -20,7 +20,18 @@ A list of developer resources which I found interesting and use alongside in my 
 
 ## Database
 
+### NoSQL
+
 - [Fauna](https://fauna.com/) — Flexible, developer-friendly, transactional NoSQL database with native GraphQL.
+- [Cloud Firestore](https://firebase.google.com/products/firestore) — Built for automatic scaling, high performance, and ease of application development
+- [MongoDB](https://www.mongodb.com/) — Fast and simple to work with NoSQL database.
+- [RethinkDB](https://rethinkdb.com/) — JSON based database for realtime applications.
+
+### SQL
+
+- [MySQl](https://www.mysql.com/) — The most popular and widely used.
+- [PostgreSQL](https://www.postgresql.org/) — Advanced and powerful object-relational database.
+- [SQLite](https://www.sqlite.org/index.html) — Small, fast, full-featured SQL database.
 
 ## Design
 
