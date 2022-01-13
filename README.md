@@ -61,7 +61,12 @@ A list of developer resources which I found interesting and use alongside in my 
 
 ## Icons
 
+- [Akar Icons](https://akaricons.com/) — A icon library made for pretty much everyone.
 - [Boxicons](https://boxicons.com/) — A free collection of carefully crafted open source icons. Each icon is designed on a 24px grid with the material guidelines.
+- [Fontello](https://fontello.com/) — Tool to build custom fonts with icons.
+- [IconBros](https://www.iconbros.com/) — Thousands of free icons.
+- [Iconsax](https://iconsax-react.pages.dev/) — 1000 icons in 6 different styles for React and React Native.
+- [Radix Icons](https://icons.modulz.app/) — A crisp set of 15×15 icons.
 - [Tabler Icons](https://tablericons.com/) — 800+ stroke, color and size Customizable free SVG icons.
 
 ## Illustrations
