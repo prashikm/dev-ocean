@@ -72,15 +72,16 @@ A list of developer resources which I found interesting and use alongside in my 
 
 ## Illustrations
 
-- [unDraw](https://undraw.co/) — A design project with open-source illustrations.
-- [DrawKit](https://www.drawkit.io/) — Free and premium vector SVG illustrations, no attribution required.
+- [Absurd](https://absurd.design/) — Surrealist illustrations. The artworks combine the absurdity and childishness.
 - [Blush](https://blush.design/) — Fully customizable and stunning illustrations made by artists across the globe.
+- [DrawKit](https://www.drawkit.io/) — Free and premium vector SVG illustrations, no attribution required.
+- [Doodle Ipsum](https://doodleipsum.com/) — The lorem ipsum of illustrations.
 - [Humaaans](https://www.humaaans.com/) — Mix-&-match illustrations of people.
+- [IRA Design](https://iradesign.io/) — Build your own illustrations using gradients and hand drawn sketch components.
+- [ManyPixels](https://www.manypixels.co/gallery) — Editable and royalty-free SVG and PNG illustrations.
 - [Ouch](https://icons8.com/illustrations) — Royalty-free clip art vector images and illustrations in PNG, SVG formats.
 - [Streamline](https://app.streamlinehq.com/illustrations) — A huge collection of illustrations in SVG, PNG and PDF formats. Really amazing.
-- [ManyPixels](https://www.manypixels.co/gallery) — Editable and royalty-free SVG and PNG illustrations.
-- [Absurd](https://absurd.design/) — Surrealist illustrations. The artworks combine the absurdity and childishness.
-- [IRA Design](https://iradesign.io/) — Build your own illustrations using gradients and hand drawn sketch components.
+- [unDraw](https://undraw.co/) — A design project with open-source illustrations.
 
 ## Images
 
