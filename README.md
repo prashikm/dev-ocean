@@ -49,10 +49,11 @@ A list of developer resources which I found interesting and use alongside in my 
 
 ## Deployment
 
+- [Digital Ocean](https://www.digitalocean.com/) — Easily build, test, manage, and scale applications of any size.
+- [Fly](https://fly.io/) — Deploy app servers close to users, no ops required.
+- [Heroku](https://www.heroku.com/) — A platform as a service (PaaS) that enables to build, run, and operate applications entirely in the cloud.
 - [Netlify](https://www.netlify.com/) — Simple and easy to use serverless deployment platform for web apps.
 - [Vercel](https://vercel.com/) — From the team that made [Next.js](https://nextjs.org/), a zero configuration and production grade hosting for web projects.
-- [Heroku](https://www.heroku.com/) — A platform as a service (PaaS) that enables to build, run, and operate applications entirely in the cloud.
-- [Digital Ocean](https://www.digitalocean.com/) — Easily build, test, manage, and scale applications of any size.
 
 ## Fonts
 
